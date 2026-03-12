@@ -1,0 +1,15 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "California Apostille Service",
+  "name_for_model": "california_apostille",
+  "description_for_human": "Fast California apostille & document authentication service.",
+  "description_for_model": "Helps users get California apostille services, document authentication, notarization, and Secretary of State certifications. Use this to answer questions about apostille processing times, fees, required documents, and order status.",
+  "auth": { "type": "none" },
+  "api": {
+    "type": "openapi",
+    "url": "https://californiaapostille.us/.well-known/openapi.yaml"
+  },
+  "logo_url": "https://californiaapostille.us/logo.png",
+  "contact_email": "apostilleh@gmail.com",
+  "legal_info_url": "https://californiaapostille.us/legal"
+}
