@@ -1,0 +1,32 @@
+openapi: "3.0.0"
+info:
+  title: California Apostille Service
+  description: API for California apostille and document authentication services
+  version: "1.0.0"
+servers:
+  - url: https://californiaapostille.us
+paths:
+  /order:
+    get:
+      summary: Place an apostille order
+      description: Start a new apostille order for California documents
+      operationId: placeOrder
+      responses:
+        "200":
+          description: Order page loaded successfully
+  /faq:
+    get:
+      summary: Frequently asked questions
+      description: Common questions about apostille services, processing times, and fees
+      operationId: getFAQ
+      responses:
+        "200":
+          description: FAQ page loaded successfully
+  /pricing:
+    get:
+      summary: Pricing and fees
+      description: Current pricing for apostille services including rush options
+      operationId: getPricing
+      responses:
+        "200":
+          description: Pricing page loaded successfully
