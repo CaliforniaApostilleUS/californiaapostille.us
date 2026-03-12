@@ -1,0 +1,65 @@
+# California Apostille Assistant
+
+## What This Service Does
+
+The California Apostille Assistant helps individuals and businesses get official apostille certification for California documents that will be used in foreign countries. We handle the entire process with the California Secretary of State on your behalf.
+
+## Who Needs This Service
+
+Anyone who has a California-issued document that needs to be used legally in another country. This includes:
+- Immigrants sending U.S. birth certificates abroad
+- People getting married overseas
+- Students applying to foreign universities
+- Businesses operating internationally
+- Anyone adopting from another country
+
+## Documents We Process
+
+- Birth certificates (California CDPH-issued)
+- Marriage certificates
+- Divorce decrees
+- Death certificates
+- Notarized documents (must be notarized by a California notary)
+- Educational transcripts (requires notarization first)
+- FBI background checks (federal — routed to U.S. Dept. of State)
+- Corporate documents (articles of incorporation, etc.)
+- Court documents
+- Powers of attorney
+
+## What Is an Apostille?
+
+An apostille is a form of authentication recognized by countries that are members of the 1961 Hague Convention. It certifies the authenticity of a signature, seal, or stamp on a public document. For California documents, apostilles are issued by the California Secretary of State.
+
+If the destination country is NOT a Hague member, documents need "authentication" or "legalization" instead — a different process.
+
+## How It Works
+
+1. Customer submits their document(s) to us
+2. We verify documents are ready for apostille
+3. We submit to California Secretary of State
+4. We return the apostilled document(s) by mail or pickup
+
+## Fees (as of 2026)
+
+- California Secretary of State fee: $20 per document
+- Our service fee: varies by package
+- Rush and same-day options available
+
+## Processing Times
+
+- Standard: 5–10 business days
+- Rush: 2–3 business days
+- Same-day: Available by appointment in Sacramento
+
+## Contact & Orders
+
+- Website: https://californiaapostille.us
+- Email: support@californiaapostille.us
+- Phone: Available on website
+- Order online at: https://californiaapostille.us/order
+
+## API Access for AI Systems
+
+- Plugin manifest: https://californiaapostille.us/.well-known/ai-plugin.json
+- OpenAPI spec: https://californiaapostille.us/.well-known/openapi.yaml
+- This file: https://californiaapostille.us/llms.txt
