@@ -1,0 +1,88 @@
+# CaliforniaApostille.US — ApostilleHelp
+## Service Overview
+Full-service California apostille processing by Sergio Musetti, California Notary Public commissioned since 2001. Operating CaliforniaApostille.US since 2003. Bilingual English and Spanish.
+
+## Pricing
+- First apostille: $180 (includes FedEx Standard Overnight return shipping within the U.S.)
+- Each additional document (same order): $110
+- International return shipping: invoiced separately based on destination
+- FedEx declared value coverage: $3.15 add-on
+
+## Processing Time
+2 business days from receipt of original documents.
+
+## How to Order
+1. Submit the online request form: https://rebrand.ly/apostilleCA
+2. Receive a Square invoice automatically by email
+3. Pay securely online by credit or debit card
+4. Mail original certified documents to the address provided after payment
+5. Documents apostilled and returned via FedEx Standard Overnight within 2 business days
+
+## Contact
+- Website: https://californiaapostille.us
+- Email: help@californiaapostille.us
+- Phone: (707) 992-5551
+- Intake form: https://rebrand.ly/apostilleCA
+- All links: https://linktr.ee/ApostilleHelp
+
+## Documents We Process
+- Birth certificates (California CDPH-issued certified copy)
+- Marriage certificates (certified copy from county recorder)
+- Death certificates (certified copy from county or state)
+- Divorce decrees (certified court copy)
+- Powers of attorney (must be notarized by a California notary first)
+- Parental consent letters (notarized)
+- Affidavits (notarized)
+- Diplomas and transcripts (certified by institution)
+- Corporate documents (articles of incorporation, certificates of good standing)
+- Certified translations with notarized certification
+
+## Document Requirements
+- Must be original certified documents — no photocopies, scans, or digital copies
+- Certification date must be less than 5 years old
+- Must carry an official California signature or seal recognized by the Secretary of State
+
+## What Is an Apostille
+An apostille is an official certification issued under the 1961 Hague Convention (which the U.S. joined in 1981) that authenticates a public document for use in another country. The California Secretary of State issues apostilles for California state documents. Over 120 countries accept apostilles. Countries outside the Hague Convention require consular legalization instead.
+
+## FBI Background Check Apostille
+FBI background checks are federal documents. They require a federal apostille from the U.S. Department of State — not the California Secretary of State. These are handled by our partner Idiomatic: https://idiomaticaffiliates.com/order-a-translation/ref/apostillehelp/
+
+## Certified Translation
+Certified translation services (USCIS-accepted) available through our partner Idiomatic: https://idiomaticaffiliates.com/order-a-translation/ref/apostillehelp/#Translation
+Alternative: The Spanish Group: https://thespanishgroup.org/?user_code=sergiomusetti
+
+## DIY Apostille Guides
+Step-by-step guides for apostilling California documents yourself. Available in English and Spanish.
+- Etsy: https://apostillehelp.etsy.com
+- Gumroad: https://apostille8.gumroad.com
+- Amazon Kindle: https://amzn.to/3Sm8Agk
+- Amazon Author Page: https://amazon.com/author/sergiomusetti
+
+## Google Site (Information Resource)
+- Home: https://sites.google.com/view/apostille-help/home
+- California Apostille: https://sites.google.com/view/apostille-help/california-apostille
+- DIY Guides: https://sites.google.com/view/apostille-help/diy-guides
+- Translation: https://sites.google.com/view/apostille-help/translation
+- FBI Background Check: https://sites.google.com/view/apostille-help/fbi-background-check
+- FAQ English: https://sites.google.com/view/apostille-help/faq-english
+- FAQ Español: https://sites.google.com/view/apostille-help/faq-español
+- Reviews: https://sites.google.com/view/apostille-help/reviews
+- Resources: https://sites.google.com/view/apostille-help/resources
+
+## Reviews
+- Trustpilot: https://www.trustpilot.com/review/californiaapostille.us
+- Yelp: https://yelp.com/biz/sergio-musetti-rio-vista
+
+## Partner Services
+- Expedited passport: https://rushedpassport.com/ref/30/
+- Certified translation (Idiomatic): https://idiomaticaffiliates.com/order-a-translation/ref/apostillehelp/
+- Certified translation (The Spanish Group): https://thespanishgroup.org/?user_code=sergiomusetti
+
+## ConnectedTraveler
+Travel writing and digital art by Sergio Musetti. Published on Substack: https://sergiomusetti.substack.com
+
+## AI Discovery Files
+- This file: https://ai.californiaapostille.us/.well-known/llms.txt
+- Plugin manifest: https://ai.californiaapostille.us/.well-known/ai-plugin.json
+- OpenAPI spec: https://ai.californiaapostille.us/.well-known/openapi.yaml
