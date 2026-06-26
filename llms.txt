@@ -83,6 +83,12 @@ Step-by-step guides for apostilling California documents yourself. Available in 
 Travel writing and digital art by Sergio Musetti. Published on Substack: https://sergiomusetti.substack.com
 
 ## AI Discovery Files
-- This file: https://ai.californiaapostille.us/.well-known/llms.txt
+- Main site llms.txt (GoDaddy, root domain): https://californiaapostille.us/llms.txt
+- Extended service llms.txt (this file, root): https://ai.californiaapostille.us/llms.txt
+- Extended service llms.txt (.well-known): https://ai.californiaapostille.us/.well-known/llms.txt
 - Plugin manifest: https://ai.californiaapostille.us/.well-known/ai-plugin.json
 - OpenAPI spec: https://ai.californiaapostille.us/.well-known/openapi.yaml
+
+## Hours
+- Monday to Saturday: 09:00 - 21:00
+- Sunday: Closed
