@@ -1,32 +1,77 @@
 openapi: "3.0.0"
 info:
-  title: California Apostille Service
-  description: API for California apostille and document authentication services
-  version: "1.0.0"
+  title: CaliforniaApostille.US — ApostilleHelp
+  description: Full-service California apostille processing by Sergio Musetti, California Notary Public since 2001. $180 first document with FedEx return, $110 each additional, 2 business days.
+  version: "2.0.0"
+  contact:
+    name: Sergio Musetti
+    email: help@californiaapostille.us
+    url: https://californiaapostille.us
 servers:
   - url: https://californiaapostille.us
+    description: Main website
 paths:
   /order:
     get:
-      summary: Place an apostille order
-      description: Start a new apostille order for California documents
-      operationId: placeOrder
+      summary: Submit an apostille request
+      description: Start a new apostille order. The intake form collects document details, country of use, and contact information. A Square invoice is sent automatically after submission.
+      operationId: submitRequest
       responses:
         "200":
-          description: Order page loaded successfully
+          description: Redirects to apostille request form at rebrand.ly/apostilleCA
   /faq:
     get:
-      summary: Frequently asked questions
-      description: Common questions about apostille services, processing times, and fees
-      operationId: getFAQ
+      summary: Frequently asked questions — English
+      description: Common questions about California apostille services, processing times, fees, document requirements, and how to get started.
+      operationId: getFAQEnglish
       responses:
         "200":
-          description: FAQ page loaded successfully
+          description: FAQ page in English
+  /faq-espanol:
+    get:
+      summary: Preguntas frecuentes — Español
+      description: Preguntas comunes sobre apostillas en California, tiempos de procesamiento, tarifas y requisitos de documentos.
+      operationId: getFAQSpanish
+      responses:
+        "200":
+          description: FAQ page in Spanish
   /pricing:
     get:
       summary: Pricing and fees
-      description: Current pricing for apostille services including rush options
+      description: "Current pricing: $180 first apostille (FedEx Standard Overnight return included), $110 each additional document. International shipping invoiced separately. No hidden fees."
       operationId: getPricing
       responses:
         "200":
-          description: Pricing page loaded successfully
+          description: Pricing information
+  /translation:
+    get:
+      summary: Certified translation services
+      description: USCIS-accepted certified translations in Spanish, Portuguese, and more. Provided by partner Idiomatic. Also covers interpretation, visa services, and FBI + apostille combined orders.
+      operationId: getTranslation
+      responses:
+        "200":
+          description: Translation service information
+  /fbi:
+    get:
+      summary: FBI background check with federal apostille
+      description: FBI background checks require a federal apostille from the U.S. Department of State — not the California Secretary of State. Handled by partner Idiomatic at idiomaticaffiliates.com/order-a-translation/ref/apostillehelp/
+      operationId: getFBIApostille
+      responses:
+        "200":
+          description: FBI apostille information
+  /guides:
+    get:
+      summary: DIY apostille guides
+      description: Step-by-step guides for apostilling California documents yourself. Available in English and Spanish for birth certificates, marriage certificates, death certificates, divorce decrees, and notarized documents. Available on Etsy, Gumroad, and Amazon Kindle.
+      operationId: getDIYGuides
+      responses:
+        "200":
+          description: DIY guide catalog
+  /reviews:
+    get:
+      summary: Client reviews
+      description: Verified client reviews on Trustpilot and Yelp. 5-star rated service since 2003.
+      operationId: getReviews
+      responses:
+        "200":
+          description: Review platforms and testimonials
