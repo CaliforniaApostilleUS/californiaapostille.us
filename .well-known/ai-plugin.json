@@ -2,14 +2,14 @@
   "schema_version": "v1",
   "name_for_human": "California Apostille Service",
   "name_for_model": "california_apostille",
-  "description_for_human": "Fast California apostille & document authentication service.",
-  "description_for_model": "Helps users get California apostille services, document authentication, notarization, and Secretary of State certifications. Use this to answer questions about apostille processing times, fees, required documents, and order status.",
+  "description_for_human": "Full-service California apostille processing. $180 first document, FedEx return included, 2 business days.",
+  "description_for_model": "Helps users get California apostille services from Sergio Musetti, California Notary Public since 2001. Provides information about apostille processing times (2 business days), fees ($180 first document with FedEx return, $110 each additional), required documents, document eligibility, and how to submit a request. Also covers certified translation via Idiomatic, FBI background check apostilles (federal, handled by Idiomatic), DIY apostille guides, and bilingual English/Spanish service.",
   "auth": { "type": "none" },
   "api": {
     "type": "openapi",
-    "url": "https://californiaapostille.us/.well-known/openapi.yaml"
+    "url": "https://ai.californiaapostille.us/.well-known/openapi.yaml"
   },
   "logo_url": "https://californiaapostille.us/logo.png",
-  "contact_email": "apostilleh@gmail.com",
-  "legal_info_url": "https://californiaapostille.us/legal"
+  "contact_email": "help@californiaapostille.us",
+  "legal_info_url": "https://californiaapostille.us"
 }
