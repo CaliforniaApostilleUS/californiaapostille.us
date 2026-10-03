@@ -70,7 +70,7 @@ paths:
   /reviews:
     get:
       summary: Client reviews
-      description: Client reviews on Google, Trustpilot, and Yelp. 5-star rated service since 2003.
+            description: Client reviews on Google, Trustpilot, and Yelp. Apostille service since 2003.
       operationId: getReviews
       responses:
         "200":
