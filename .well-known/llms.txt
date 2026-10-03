@@ -1,28 +1,35 @@
-# CaliforniaApostille.US — ApostilleHelp
+# CaliforniaApostille.US | ApostilleHelp
 ## Service Overview
 Full-service California apostille processing by Sergio Musetti, California Notary Public commissioned since 2001. Operating CaliforniaApostille.US since 2003. Bilingual English and Spanish.
 
 ## Pricing
-- First apostille: $180 (includes FedEx Standard Overnight return shipping within the U.S.)
+- Standard: $190 for the first apostille, processed in 3 business days from receipt of original documents. FedEx 2Day return shipping within the U.S. included.
+- Same-Day: $299 for the first apostille. Documents must arrive by 9:00 AM Pacific Time. If the state office cannot complete it the same day, it is processed the next business day and the $109 difference is refunded.
 - Each additional document (same order): $110
 - International return shipping: invoiced separately based on destination
 - FedEx declared value coverage: $3.15 add-on
 
 ## Processing Time
-2 business days from receipt of original documents.
+- Standard: 3 business days from receipt of original documents
+- Same-Day: same business day when documents arrive by 9:00 AM Pacific Time
+
+## Notary Certificate Pre-Check
+Optional $5 automated format check of a California notary certificate before mailing: https://verify.californiaapostille.us
+The $5 fee is credited toward the apostille order. This is a format check only. Only the California Secretary of State verifies signatures and commission status, and acceptance is not guaranteed.
 
 ## How to Order
-1. Submit the online request form: https://rebrand.ly/apostilleCA
+1. Submit the online request form: https://tinyurl.com/apostilleCA
 2. Receive a Square invoice automatically by email
 3. Pay securely online by credit or debit card
-4. Mail original certified documents to the address provided after payment
-5. Documents apostilled and returned via FedEx Standard Overnight within 2 business days
+4. Mail original certified documents to the address provided after payment. Do NOT require a signature on delivery (a $100 fee applies). Tracking is fine.
+5. Documents are apostilled and returned via FedEx 2Day
 
 ## Contact
 - Website: https://californiaapostille.us
 - Email: help@californiaapostille.us
 - Phone: (707) 992-5551
-- Intake form: https://rebrand.ly/apostilleCA
+- Intake form: https://tinyurl.com/apostilleCA
+- Notary certificate pre-check: https://verify.californiaapostille.us
 - All links: https://linktr.ee/ApostilleHelp
 
 ## Documents We Process
@@ -38,15 +45,15 @@ Full-service California apostille processing by Sergio Musetti, California Notar
 - Certified translations with notarized certification
 
 ## Document Requirements
-- Must be original certified documents — no photocopies, scans, or digital copies
+- Must be original certified documents. No photocopies, scans, or digital copies
 - Certification date must be less than 5 years old
 - Must carry an official California signature or seal recognized by the Secretary of State
 
 ## What Is an Apostille
-An apostille is an official certification issued under the 1961 Hague Convention (which the U.S. joined in 1981) that authenticates a public document for use in another country. The California Secretary of State issues apostilles for California state documents. Over 120 countries accept apostilles. Countries outside the Hague Convention require consular legalization instead.
+An apostille is an official certification issued under the 1961 Hague Convention (which the U.S. joined in 1981) that authenticates a public document for use in another country. The California Secretary of State issues apostilles for California state documents. Over 120 countries accept apostilles. Countries outside the Hague Convention require consular legalization instead. CaliforniaApostille.US handles California apostilles for Hague Convention countries only.
 
 ## FBI Background Check Apostille
-FBI background checks are federal documents. They require a federal apostille from the U.S. Department of State — not the California Secretary of State. These are handled by our partner Idiomatic: https://idiomaticaffiliates.com/order-a-translation/ref/apostillehelp/
+FBI background checks are federal documents. They require a federal apostille from the U.S. Department of State, not the California Secretary of State. These are handled by our partner Idiomatic: https://idiomaticaffiliates.com/order-a-translation/ref/apostillehelp/
 
 ## Certified Translation
 Certified translation services (USCIS-accepted) available through our partner Idiomatic: https://idiomaticaffiliates.com/order-a-translation/ref/apostillehelp/#Translation
@@ -71,6 +78,7 @@ Step-by-step guides for apostilling California documents yourself. Available in 
 - Resources: https://sites.google.com/view/apostille-help/resources
 
 ## Reviews
+- Google: https://g.page/r/CUtDsrU9fASqEAI/review
 - Trustpilot: https://www.trustpilot.com/review/californiaapostille.us
 - Yelp: https://yelp.com/biz/sergio-musetti-rio-vista
 
@@ -86,3 +94,4 @@ Travel writing and digital art by Sergio Musetti. Published on Substack: https:/
 - This file: https://ai.californiaapostille.us/.well-known/llms.txt
 - Plugin manifest: https://ai.californiaapostille.us/.well-known/ai-plugin.json
 - OpenAPI spec: https://ai.californiaapostille.us/.well-known/openapi.yaml
+
