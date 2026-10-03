@@ -1,8 +1,8 @@
 openapi: "3.0.0"
 info:
   title: CaliforniaApostille.US | ApostilleHelp
-  description: Full-service California apostille processing by Sergio Musetti, California Notary Public since 2001, for Hague Convention countries. Standard $190 first document (3 business days), Same-Day $299, $110 each additional, FedEx 2Day return included.
-  version: "2.1.0"
+  description: Full-service California apostille processing by Sergio Musetti, California Notary Public since 2001, for Hague Convention countries. Standard $190 first document (3 business days), Same-Day $299, $110 each additional. All California state fees and FedEx 2Day return included.
+  version: "2.2.0"
   contact:
     name: Sergio Musetti
     email: help@californiaapostille.us
@@ -14,7 +14,7 @@ paths:
   /order:
     get:
       summary: Submit an apostille request
-      description: Start a new apostille order. The intake form collects document details, country of use, and contact information. A Square invoice is sent automatically after submission. Optional $5 notary certificate pre-check at verify.californiaapostille.us, credited toward the order.
+      description: Start a new apostille order. The intake form collects document details, country of use, and contact information. A Square invoice is sent automatically after submission. Clients check their document before ordering, using the certificate checklist at https://apostillehelp.blogspot.com/p/is-my-california-certificate-ready-for.html or the optional $5 notary certificate pre-check at verify.californiaapostille.us, credited toward the order.
       operationId: submitRequest
       responses:
         "200":
@@ -38,7 +38,7 @@ paths:
   /pricing:
     get:
       summary: Pricing and fees
-      description: "Current pricing: Standard $190 first apostille, processed in 3 business days (FedEx 2Day return included in the U.S.). Same-Day $299 first apostille, documents must arrive by 9:00 AM Pacific Time; if not completed the same day, processed the next business day and the $109 difference refunded. $110 each additional document. International shipping invoiced separately. Do not require a signature on delivery when mailing documents ($100 fee)."
+      description: "Current pricing: Standard $190 first apostille, processed in 3 business days. Same-Day $299 first apostille, documents must arrive by 9:00 AM Pacific Time; if not completed the same day, processed the next business day and the $109 difference refunded. $110 each additional document. All California state fees and FedEx 2Day return shipping within the U.S. included. International shipping invoiced separately. Do not require a signature on delivery when mailing documents ($100 fee)."
       operationId: getPricing
       responses:
         "200":
@@ -70,8 +70,8 @@ paths:
   /reviews:
     get:
       summary: Client reviews
-            description: Client reviews on Google, Trustpilot, and Yelp. Apostille service since 2003.
+      description: Client reviews on Google, Trustpilot, and Yelp. Apostille service since 2003.
       operationId: getReviews
       responses:
         "200":
-          description: Review platforms and testimonials
+          description: Review platforms
