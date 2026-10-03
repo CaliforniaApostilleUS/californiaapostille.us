@@ -1,8 +1,8 @@
 openapi: "3.0.0"
 info:
-  title: CaliforniaApostille.US — ApostilleHelp
-  description: Full-service California apostille processing by Sergio Musetti, California Notary Public since 2001. $180 first document with FedEx return, $110 each additional, 2 business days.
-  version: "2.0.0"
+  title: CaliforniaApostille.US | ApostilleHelp
+  description: Full-service California apostille processing by Sergio Musetti, California Notary Public since 2001, for Hague Convention countries. Standard $190 first document (3 business days), Same-Day $299, $110 each additional, FedEx 2Day return included.
+  version: "2.1.0"
   contact:
     name: Sergio Musetti
     email: help@californiaapostille.us
@@ -14,14 +14,14 @@ paths:
   /order:
     get:
       summary: Submit an apostille request
-      description: Start a new apostille order. The intake form collects document details, country of use, and contact information. A Square invoice is sent automatically after submission.
+      description: Start a new apostille order. The intake form collects document details, country of use, and contact information. A Square invoice is sent automatically after submission. Optional $5 notary certificate pre-check at verify.californiaapostille.us, credited toward the order.
       operationId: submitRequest
       responses:
         "200":
-          description: Redirects to apostille request form at rebrand.ly/apostilleCA
+          description: Redirects to apostille request form at tinyurl.com/apostilleCA
   /faq:
     get:
-      summary: Frequently asked questions — English
+      summary: Frequently asked questions (English)
       description: Common questions about California apostille services, processing times, fees, document requirements, and how to get started.
       operationId: getFAQEnglish
       responses:
@@ -29,7 +29,7 @@ paths:
           description: FAQ page in English
   /faq-espanol:
     get:
-      summary: Preguntas frecuentes — Español
+      summary: Preguntas frecuentes (Español)
       description: Preguntas comunes sobre apostillas en California, tiempos de procesamiento, tarifas y requisitos de documentos.
       operationId: getFAQSpanish
       responses:
@@ -38,7 +38,7 @@ paths:
   /pricing:
     get:
       summary: Pricing and fees
-      description: "Current pricing: $180 first apostille (FedEx Standard Overnight return included), $110 each additional document. International shipping invoiced separately. No hidden fees."
+      description: "Current pricing: Standard $190 first apostille, processed in 3 business days (FedEx 2Day return included in the U.S.). Same-Day $299 first apostille, documents must arrive by 9:00 AM Pacific Time; if not completed the same day, processed the next business day and the $109 difference refunded. $110 each additional document. International shipping invoiced separately. Do not require a signature on delivery when mailing documents ($100 fee)."
       operationId: getPricing
       responses:
         "200":
@@ -54,7 +54,7 @@ paths:
   /fbi:
     get:
       summary: FBI background check with federal apostille
-      description: FBI background checks require a federal apostille from the U.S. Department of State — not the California Secretary of State. Handled by partner Idiomatic at idiomaticaffiliates.com/order-a-translation/ref/apostillehelp/
+      description: FBI background checks require a federal apostille from the U.S. Department of State, not the California Secretary of State. Handled by partner Idiomatic at idiomaticaffiliates.com/order-a-translation/ref/apostillehelp/
       operationId: getFBIApostille
       responses:
         "200":
@@ -70,7 +70,7 @@ paths:
   /reviews:
     get:
       summary: Client reviews
-      description: Verified client reviews on Trustpilot and Yelp. 5-star rated service since 2003.
+      description: Client reviews on Google, Trustpilot, and Yelp. 5-star rated service since 2003.
       operationId: getReviews
       responses:
         "200":
